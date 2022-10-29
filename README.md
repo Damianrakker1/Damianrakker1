@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Damianrakker1
 - 👀 I’m interested in discord bots coding
 - 🌱 I’m currently learning discord.js
-- 📫 How to reach me #soon👀
+- 📫 How to reach me https://discord.gg/RbUYbdCdgt
 
 <!---
 Damianrakker1/Damianrakker1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
