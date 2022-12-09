@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Damianrakker1 14
+- 👋 Hi, I’m @Damianrakker1
 - 👀 I’m interested in discord bots coding
 - 🌱 I’m currently learning discord.js
 - 📫 How to reach me https://discord.gg/RbUYbdCdgt
